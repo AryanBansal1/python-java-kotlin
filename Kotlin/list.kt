@@ -4,7 +4,7 @@ fun main(){
         //address of each element
         println(System.identityHashCode(abc[i]))
     }
-
+    println("--------")
     var bcd = arrayOf(1,2,3,4)
     for(i in 0..bcd.size-1){
         //address of each element

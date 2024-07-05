@@ -30,4 +30,7 @@ public class first {
     //converting large to smaller value could be incorrect 
     System.out.println(p);
   }
+
+  Animal fish = new Animal();
+    
 }

@@ -53,6 +53,7 @@ public class TwoDArray{
             System.out.println();
         }
         //search2DArray(Matrix,7);
-        maxMin(Matrix);
+        //maxMin(Matrix);
+        //System.out.println(Matrix[2][2]);
     }
 }
