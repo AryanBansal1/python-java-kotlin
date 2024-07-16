@@ -10,6 +10,10 @@ public class trapping_rainwater {
         for(int i =1;i<arr.length;i++){      
             leftboundary[i] = Math.max(arr[i], leftboundary[i-1]);
         }
+        // to check leftboundary array
+        // for(int i=0;i<leftboundary.length;i++){
+        //     System.out.println(leftboundary[i]);
+        // }
 
         //rightArr
         int rightboundary[]= new int[arr.length];

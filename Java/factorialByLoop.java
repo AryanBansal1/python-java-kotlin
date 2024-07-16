@@ -7,10 +7,9 @@ public class factorialByLoop {
         for(int i = 1;i<=n;i++){
             if(n==0)
             {factorial = 1;
-                break;
-    }
-    factorial *=i;
-    }
-    System.out.print(factorial);
+                break;}
+            factorial *=i;
+        }
+        System.out.print(factorial);
     }
 }
