@@ -8,11 +8,11 @@ public class sumOfsubarrK{
         int maximumSum= Integer.MIN_VALUE;
         for(int i = 0;i<arr.length;i++){
             currSum+= arr[i];
-            if(currSum<0){
-                currSum=0;
-            }
             if(maximumSum<currSum){
                 maximumSum= currSum;
+            }
+            if(currSum<0){
+                currSum=0;
             }
         }
         System.out.println("The maximum sum of subarr "+maximumSum);
