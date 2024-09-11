@@ -6,6 +6,8 @@ import java.util.ListIterator;
 public class arrlist {
     public static void main(String[] args) {
         ArrayList al = new ArrayList();
+        ArrayList<Integer> int_arr = new ArrayList<>();
+        ArrayList<String> string_arr = new ArrayList<>();        
         al.add(10);
         al.add(20);
         al.add("aryan");

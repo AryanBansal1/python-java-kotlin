@@ -8,6 +8,7 @@ public class practice {
     int c = sc.nextInt();
     float average = (a+b+c)/3f;
     System.out.println(average);
+    
 
     }
 }

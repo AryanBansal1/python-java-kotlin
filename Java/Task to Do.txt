@@ -1,0 +1,6 @@
+-> oops concept
+-> exception handling
+-> multi process threading
+-> linked list
+-> stack
+-> queue
