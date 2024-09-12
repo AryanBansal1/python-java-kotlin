@@ -4,3 +4,9 @@
 -> linked list
 -> stack
 -> queue
+
+
+c
+post pre increment decrement
+pointer
+operator precedence
