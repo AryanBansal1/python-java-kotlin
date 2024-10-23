@@ -1,4 +1,4 @@
-public class SpiralMatrix {
+public class TwoDSpiralMatrix {
 
     public static void spiralmatrix(int matrix[][]){
         int strtrow =0;

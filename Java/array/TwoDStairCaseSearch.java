@@ -1,4 +1,4 @@
-public class StairCaseSearch {
+public class TwoDStairCaseSearch {
 
     public static Boolean staircasesearch(int matrix[][],int key){
         int row=0;

@@ -17,5 +17,6 @@ public class stackLst {
         System.out.println(s);
         System.out.println(s.search(57));
         System.out.println(s.empty());
+        
     }
 }

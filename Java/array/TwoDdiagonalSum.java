@@ -1,4 +1,4 @@
-public class diagonalSum {
+public class TwoDdiagonalSum {
 
     public static void Diagonalsum(int matrix[][]){
         int sum =0;
