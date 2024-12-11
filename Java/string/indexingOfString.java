@@ -1,4 +1,4 @@
-package strings;
+package string;
 
 public class indexingOfString {
     public static void main (String args []){
