@@ -6,7 +6,9 @@ public class primenumber {
         boolean isprime = true;
         for(int i = 2;i<Math.sqrt(n);i++){
             if(n%i==0){
-                isprime = false;}    
+                isprime = false;
+                break;
+            }    
         }
         if(isprime==true)System.out.print("It is a prime number");
         else{System.out.print("Not a prime number");}

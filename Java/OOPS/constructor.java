@@ -1,6 +1,5 @@
 package OOPS;
 
-import java.lang.reflect.Constructor;
 
 public class constructor {
     public static void main(String[] args) {

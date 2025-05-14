@@ -1,4 +1,5 @@
-import java.util.*;
+//import java.util.*;
+import java.util.Scanner;
 
 public class practice {
     public static void main(String[] args){
@@ -8,7 +9,7 @@ public class practice {
     int c = sc.nextInt();
     float average = (a+b+c)/3f;
     System.out.println(average);
-    
+    Math.min(a, b);
 
     }
 }

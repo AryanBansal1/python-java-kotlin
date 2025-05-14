@@ -18,7 +18,7 @@ public class pairSum_Rev_sorted_arr {
        int n = list.size();
        while(smallest !=pivot_idx){
             sum = list.get(smallest)+ list.get(pivot_idx);
-            //System.out.println(sum);
+            System.out.println(sum);
             if(sum==target){
                 System.out.println(smallest + ","+ pivot_idx);
                 return;
