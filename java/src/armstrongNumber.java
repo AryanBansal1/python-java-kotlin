@@ -14,5 +14,6 @@ public class armstrongNumber {
         }
         if (sum==y){System.out.print("It is armstrongnumber");}
         else {System.out.print("Not an armstrongnumber");}
+        sc.close();
     } 
 }

@@ -1,4 +1,4 @@
-public class typecasting {
+public class Typecasting {
     public static void main(String args []){
         //type conversion or widening
         int a = 8;
