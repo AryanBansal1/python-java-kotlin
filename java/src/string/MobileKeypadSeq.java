@@ -1,10 +1,10 @@
 package string;
 public class MobileKeypadSeq {
 
-    public static Integer mobilekeypad(String s){
+    public static Integer Mobilekeypad(String s){
         for(int i=0;i<s.length();i++){
             int abc = s.charAt(i)-'A'+1;
-
+            
         }
     }
 
