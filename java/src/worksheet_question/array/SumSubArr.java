@@ -1,4 +1,4 @@
-package worksheet_question;
+package array;
 
 public class SumSubArr {
     public static void main(String[] args) {

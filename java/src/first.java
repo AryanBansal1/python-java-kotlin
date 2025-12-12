@@ -29,8 +29,9 @@ public class first {
     byte p = (byte)i;
     //converting large to smaller value could be incorrect 
     System.out.println(p);
-  }
 
-  Animal fish = new Animal();
+    String kit = "Aryan";
+    String j = "Aryan";
+  }
     
 }
