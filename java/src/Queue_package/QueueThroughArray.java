@@ -2,7 +2,7 @@ package Queue_package;
 
 public class QueueThroughArray {
     public static void main(String[] args) {
-        Queue q = new Queue(3);
+        MyQueue q = new MyQueue(3);
         q.add(32);
         q.add(12);
         q.add(17);
@@ -12,11 +12,11 @@ public class QueueThroughArray {
     }
 }
 
-class Queue{
+class MyQueue{
     static int arr[];
     static int size;
     static int rear;
-    public  Queue(int n){
+    public  MyQueue(int n){
         arr = new int[n];
         size = n;
         rear =-1;

@@ -2,7 +2,7 @@ package Queue_package;
 
 public class CircularQueue {
     public static void main(String[] args) {
-        Queue q = new Queue(3); 
+        MyQueue q = new MyQueue(3); 
         q.add(20);
         q.add(30);
         q.add(40);
@@ -11,13 +11,13 @@ public class CircularQueue {
     }
 }
 
-class Queue{
+class MyQueue{
     int []arr;
     int size;
     int front=-1;
     int rear=-1;
 
-    public Queue(int n){
+    public MyQueue(int n){
         size = n;
         arr = new int[n];
     }

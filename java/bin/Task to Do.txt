@@ -1,0 +1,12 @@
+-> oops concept
+-> exception handling
+-> multi process threading
+-> linked list
+-> stack
+-> queue
+
+
+c
+post pre increment decrement
+pointer
+operator precedence
